@@ -12,6 +12,5 @@ public class AliPayImpl extends IAliPayLoginAdapter {
         super.login(activity, callBack);
 
 
-
     }
 }
